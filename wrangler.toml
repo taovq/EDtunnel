@@ -9,7 +9,7 @@ pattern = "tostosan.my.id"
 custom_domain = true
 
 [vars]
-PROXYIP = "138.2.89.238:43254"
+PROXYIP = "157.245.60.56"
 UUID = "63035957-d448-4f48-bad9-acc528bc772b"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
