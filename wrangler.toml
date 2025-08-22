@@ -1,4 +1,4 @@
-name = "SGDO"
+name = "rumahweb"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -9,7 +9,7 @@ pattern = "tostosan.my.id"
 custom_domain = true
 
 [vars]
-PROXYIP = "157.245.60.56"
+PROXYIP = "203.194.112.119:8443"
 UUID = "63035957-d448-4f48-bad9-acc528bc772b"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
